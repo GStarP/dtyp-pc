@@ -1,34 +1,6 @@
-# dtyp-pc
+# Electron-Vite-Template
 
-An Electron application with React and TypeScript
+Based on [react-ts](https://github.com/alex8088/quick-start/tree/master/packages/create-electron/playground/react-ts)
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ pnpm install
-```
-
-### Development
-
-```bash
-$ pnpm dev
-```
-
-### Build
-
-```bash
-# For windows
-$ pnpm build:win
-
-# For macOS
-$ pnpm build:mac
-
-# For Linux
-$ pnpm build:linux
-```
+- [x] tailwindcss
+- [x] shadcn/ui
